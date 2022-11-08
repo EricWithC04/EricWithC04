@@ -1,4 +1,4 @@
-### Eric A. Mercado 👋
+### Hola 👋, soy Eric A. Mercado 
   Soy un Frontend Developer Jr en búsqueda de mi primera oportunidad en el mundo IT. 
   Domino las tecnologías de JavaScript, React, Redux y me apasiona participar en proyectos desafiantes y aprender nuevas tecnologías por el camino. </br>
   
