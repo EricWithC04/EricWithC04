@@ -1,13 +1,13 @@
 ### Hola 👋, soy Eric A. Mercado 
   Soy un Frontend Developer Jr en búsqueda de mi primera oportunidad en el mundo IT. 
-  Domino las tecnologías de JavaScript, React, Redux y me apasiona participar en proyectos desafiantes y aprender nuevas tecnologías por el camino. </br>
+  Domino las tecnologías de desarrollo web tales como JavaScript y React. Me apasiona participar en proyectos desafiantes y aprender nuevas tecnologías por el camino. </br>
   
-  Estudié en el bootcamp de Soy Henry donde desarrollé las siguientes habilidades: </br>
-   -HTML </br>
-   -CSS </br>
+  Soy un estudiante constante y actualmente cuento con las siguientes habilidades: </br>
    -JavaScript </br>
+   -TypeScript </br>
    -React </br>
-   -Redux </br>
+   -Python </br>
+   -Django </br>
    -Node.Js </br>
    -Express </br>
    -SQL </br>
